@@ -1,2 +1,6 @@
-# responsive-web
+# Atelier "Dibujito"
+- Responsive web design
+- Flexbox
+- Mobile Friendly
+
  
